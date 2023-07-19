@@ -1,6 +1,6 @@
 # ZK Circuit Implementation
 
-This project demonstrates a new zkSNARK circuit that implements some logical operations. And after that it deploys a verifier on-chain to verify proofs generated from this circuit
+This project demonstrates how to design a circuit that implements some logical operations using circom programming language. And after that it aslo specifies how to deploy a verifier on-chain to verify proofs generated from this circuit
 
 ## Description
 
